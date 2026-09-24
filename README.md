@@ -201,6 +201,5 @@
         doc.save(`${topicName.replace(/[^a-zA-Z0-0]/g, "_")}_Notes.pdf`);
     }
 </script>
-
 </body>
 </html>
